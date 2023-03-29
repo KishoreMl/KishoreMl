@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KishoreMl
-- 👀 I’m interested in Problem solving and Blockchain technology
+- 👀 I’m interested in Problem solving and building Web applications
 - 🌱 I’m currently learning Solidity 
-- 💞️ I’m looking to collaborate on Startups
+- 
 - 📫 How to reach me  kishoreml2909@gmail.com
 
 <!---

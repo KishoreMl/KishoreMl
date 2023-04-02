@@ -1,8 +1,8 @@
  <h1>👋 Hi, I’m @KishoreMl </h1> 
  <h2> A passionate engineer interested in Problem solving, building Web-Applications and projects</h2>
  <ul>
- <li> 🌱 I’m currently learning Solidity </li>
- <li> 💭 ask me about Java, Javascript, MERN Stack</li>
+ <li> 🌱 I’m currently learning <b>Solidity</b> </li>
+ <li> 💭 ask me about <b>Java</b>, <b>Javascript</b>, <b>MERN Stack</b> </li>
  <li> 📫 How to reach me  kishoreml2909@gmail.com </li>
  <ul>
 <h2>Connect with me </h2>

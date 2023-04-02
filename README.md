@@ -1,5 +1,6 @@
  <h1>👋 Hi, I’m @KishoreMl </h1> 
- <h2> A passionate engineer intrested in Problem solving, building Web-Applications and projects</h2>
+ <h2> A passionate engineer interested in Problem solving, building Web-Applications and projects</h2>
+-
 - 👀 I’m interested in Problem solving and building Web applications
 - 🌱 I’m currently learning Solidity 
 - 💭 ask me about Java, Javascript, MERN Stack

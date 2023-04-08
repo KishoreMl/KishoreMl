@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kishore ML</h1>
-<h3 align="center">A passionaA passionate engineer interested in Problem solving, building Web-Applications and projectste frontend developer from India</h3>
+<h3 align="center">A passionate engineer interested in Problem solving, building Web-Applications and projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishoreml&label=Profile%20views&color=0e75b6&style=flat" alt="kishoreml" /> </p>
 

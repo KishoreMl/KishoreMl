@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **Java, JavaScript, React JS**
+- 💬 Ask me about **Java, JavaScript, React JS, Web Components**
 
 - 📫 How to reach me **kishoreml2909@gmail.com**
 

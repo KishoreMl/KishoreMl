@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishoreml&label=Profile%20views&color=0e75b6&style=flat" alt="kishoreml" /> </p>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Ionic Framework**
 
-- 💬 Ask me about **Java, JavaScript, React JS, Web Components**
+- 💬 Ask me about **Java, JavaScript, React JS, Stencil JS**
 
 - 📫 How to reach me **kishoreml2909@gmail.com**
 

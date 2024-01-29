@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishoreml&label=Profile%20views&color=0e75b6&style=flat" alt="kishoreml" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishoreml" alt="kishoreml" /></a> </p>
+
+- 🔭 I’m currently working on **PG management application**
+
 - 🌱 I’m currently learning **Ionic Framework**
 
 - 💬 Ask me about **Java, JavaScript, React JS, Stencil JS**
@@ -79,5 +83,6 @@
    </a> 
 </p>
 
-   
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishoreml&show_icons=true&locale=en&layout=compact" alt="kishoreml" /></p>
 

@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ionic Framework**
 
-- 💬 Ask me about **Java, JavaScript, React JS, Stencil JS**
+- 💬 Ask me about **Web Application and Frontend Development**
 
 - 📫 How to reach me **kishoreml2909@gmail.com**
 

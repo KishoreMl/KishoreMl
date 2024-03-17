@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **PG management application**
 
-- 🌱 I’m currently learning **Ionic Framework**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Web Application and Frontend Development**
 
